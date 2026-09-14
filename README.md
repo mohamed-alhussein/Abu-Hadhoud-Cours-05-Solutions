@@ -9,6 +9,7 @@ My solutions for the problems in Abu Hadhoud's Course 05.
 - Problem 03
 - Problem 04
 - Problem 05
+- Problem 06
 
 ## Language
 
