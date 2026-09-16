@@ -13,6 +13,10 @@ My solutions for the problems in Abu Hadhoud's Course 05.
 - Problem 07
 - Problem 08
 - Problem 09
+- Problem 10
+- Problem 11
+- Problem 12
+- Problem 13
 ## Language
 
 - C++
