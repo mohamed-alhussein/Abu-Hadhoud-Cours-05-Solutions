@@ -22,6 +22,8 @@ My solutions for the problems in Abu Hadhoud's Course 05.
 - Problem 16
 - Problem 17
 - Problem 18
+- Problem 19
+- Problem 20
 ## Language
 
 - C++
