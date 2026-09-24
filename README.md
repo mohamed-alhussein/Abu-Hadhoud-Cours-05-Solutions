@@ -26,6 +26,10 @@ My solutions for the problems in Abu Hadhoud's Course 05.
 - Problem 20
 - Problem 21
 - Problem 22
+- Problem 23
+- Problem 24
+- Problem 25
+- Problem 26
 ## Language
 
 - C++
