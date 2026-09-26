@@ -1,6 +1,11 @@
-# Abu Hadhoud - Course 05 Solutions
+# Problem Solving C++ - Level 1
 
-My solutions for the problems in Abu Hadhoud's Course 05.
+C++ problem solving and practice.
+
+## Goals
+
+- 100 Problems
+- 2 Projects
 
 ## Problems
 
