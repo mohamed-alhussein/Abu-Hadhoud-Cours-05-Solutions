@@ -33,6 +33,8 @@ My solutions for the problems in Abu Hadhoud's Course 05.
 - Problem 27
 - Problem 28
 - Problem 29
+- Problem 30
+- Problem 31
 ## Language
 
 - C++
